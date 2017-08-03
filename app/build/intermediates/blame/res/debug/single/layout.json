@@ -10,5 +10,9 @@
     {
         "merged": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_text.xml",
         "source": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\layout\\tag_text.xml"
+    },
+    {
+        "merged": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_sql_item.xml",
+        "source": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\layout\\show_sql_item.xml"
     }
 ]

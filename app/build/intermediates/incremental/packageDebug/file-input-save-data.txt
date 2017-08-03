@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Aug 03 10:31:49 CST 2017
+#Thu Aug 03 13:49:38 CST 2017
 2.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 5.set=ANDROID_RESOURCE
@@ -9,9 +9,10 @@
 4.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tag_viewer.xml
 7.set=ANDROID_RESOURCE
-count=8
+count=9
 0.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
 5.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\show_sql_item.xml
 4.set=ANDROID_RESOURCE
 6.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 1.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tag_text.xml
@@ -20,8 +21,10 @@ count=8
 2.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_main.xml
 6.set=DEX
 0.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 3.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tag_divider.xml
 3.set=ANDROID_RESOURCE
 1.base=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.file=D\:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE

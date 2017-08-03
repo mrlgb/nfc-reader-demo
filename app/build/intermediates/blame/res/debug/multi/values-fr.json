@@ -7,17 +7,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
+                    "endColumn": 700,
+                    "endOffset": 751
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 252,
-                        "endColumn": 48,
-                        "endOffset": 296
+                        "startOffset": 259,
+                        "endColumn": 700,
+                        "endOffset": 955
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 104,
-                    "endColumn": 40,
-                    "endOffset": 140
+                    "startOffset": 756,
+                    "endColumn": 45,
+                    "endOffset": 797
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1002,
-                        "endColumn": 40,
-                        "endOffset": 1038
+                        "startOffset": 1400,
+                        "endColumn": 45,
+                        "endOffset": 1441
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 145,
-                    "endColumn": 700,
-                    "endOffset": 841
+                    "startOffset": 802,
+                    "endColumn": 45,
+                    "endOffset": 843
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 301,
-                        "endColumn": 700,
-                        "endOffset": 997
+                        "startOffset": 1288,
+                        "endColumn": 45,
+                        "endOffset": 1329
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 846,
-                    "endColumn": 45,
-                    "endOffset": 887
+                    "startOffset": 848,
+                    "endColumn": 63,
+                    "endOffset": 907
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1476,
-                        "endColumn": 45,
-                        "endOffset": 1517
+                        "startOffset": 1447,
+                        "endColumn": 63,
+                        "endOffset": 1506
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 892,
-                    "endColumn": 45,
-                    "endOffset": 933
+                    "startOffset": 912,
+                    "endColumn": 63,
+                    "endOffset": 971
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1366,
-                        "endColumn": 45,
-                        "endOffset": 1407
+                        "startOffset": 1335,
+                        "endColumn": 63,
+                        "endOffset": 1394
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 938,
-                    "endColumn": 63,
-                    "endOffset": 997
+                    "startOffset": 976,
+                    "endColumn": 62,
+                    "endOffset": 1034
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1522,
-                        "endColumn": 63,
-                        "endOffset": 1581
+                        "startOffset": 1165,
+                        "endColumn": 62,
+                        "endOffset": 1223
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 1002,
-                    "endColumn": 63,
-                    "endOffset": 1061
+                    "startOffset": 1039,
+                    "endColumn": 57,
+                    "endOffset": 1092
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1412,
-                        "endColumn": 63,
-                        "endOffset": 1471
+                        "startOffset": 1229,
+                        "endColumn": 57,
+                        "endOffset": 1282
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 1066,
-                    "endColumn": 62,
-                    "endOffset": 1124
+                    "startOffset": 1097,
+                    "endColumn": 131,
+                    "endOffset": 1224
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1245,
-                        "endColumn": 62,
-                        "endOffset": 1303
+                        "startOffset": 1032,
+                        "endColumn": 131,
+                        "endOffset": 1159
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1129,
-                    "endColumn": 57,
-                    "endOffset": 1182
+                    "startOffset": 1229,
+                    "endColumn": 69,
+                    "endOffset": 1294
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1308,
-                        "endColumn": 57,
-                        "endOffset": 1361
+                        "startOffset": 961,
+                        "endColumn": 69,
+                        "endOffset": 1026
                     }
                 }
             },
@@ -177,56 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1187,
-                    "endColumn": 131,
-                    "endOffset": 1314
-                },
-                "from": {
-                    "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1113,
-                        "endColumn": 131,
-                        "endOffset": 1240
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1319,
-                    "endColumn": 69,
-                    "endOffset": 1384
-                },
-                "from": {
-                    "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1043,
-                        "endColumn": 69,
-                        "endOffset": 1108
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1389,
+                    "startOffset": 1299,
                     "endColumn": 73,
-                    "endOffset": 1458
+                    "endOffset": 1368
                 },
                 "from": {
                     "file": "D:\\Android-base\\android-design-library-master\\nfc-reader-master\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1586,
+                        "startOffset": 1512,
                         "endColumn": 73,
-                        "endOffset": 1655
+                        "endOffset": 1581
                     }
                 }
             }

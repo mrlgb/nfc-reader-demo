@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2011 Adam Nybäck
+     Copyright (C) 2011 mr.lgb
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,16 +15,30 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">NFC Reader</string>
-    <string name="intro_message">This is a simple app to read various tags (NDEF, RFID, FeliCa, ISO 14443, etc).\n\nYou use it by holding a tag/card against the back of your device.\n\nPlease let me know if you want me to change how the data is displayed. Also send me an e-mail (adam@anyro.se) if you have any problems with the app and I\'ll let you know when I\'ve fixed it. You can also see the source code and report issues at https://github.com/nadam/nfc-reader.\n\nIf you can\'t read any tag, please try some of the other NFC apps on Google Play and let me know if this app is the only one not working. Thanks!\n\n/Adam</string>
-    <string name="error">Error</string>
-    <string name="no_nfc">No NFC found on this device</string>
-    <string name="nfc_disabled">NFC is not enabled. Please go to the wireless settings to enable it.</string>
-    <string name="menu_main_clear_title">Clear all</string>
-    <string name="menu_main_copy">Copy IDs</string>
-    <string name="menu_copy_hex">Hex</string>
+    <string name="app_name">NFC签到APP</string>
+    <string name="intro_message">读取不同卡示例程序 (NDEF, RFID, FeliCa, ISO 14443, etc). Thanks!\n\n/lgb</string>
+    <string name="error">错误</string>
+    <string name="no_nfc">该设备未NFC设备</string>
+    <string name="nfc_disabled">NFC不可用. 请到无线设置菜单开启它.</string>
+    <string name="menu_main_clear_title">清除所有</string>
+    <string name="menu_main_copy">复制 ID</string>
+    <string name="menu_copy_hex">16进制Hex</string>
     <string name="menu_copy_reversed_hex">Reversed hex</string>
     <string name="menu_copy_dec">Dec</string>
     <string name="menu_copy_reversed_dec">Reversed dec</string>
-    <string name="nothing_scanned">Nothing scanned yet</string>
+    <string name="nothing_scanned">未扫描卡信息</string>
+
+
+    <string name="strExecute">执行SQL</string>
+    <string name="strAdd">新增</string>
+    <string name="strDelete">删除</string>
+    <string name="strUpdate">修改</string>
+    <string name="strQuery1">数据查询</string>
+    <string name="strQuery2">统计查询</string>
+    <string name="strQuery3">比较查询</string>
+    <string name="strInputSqlHint">update Orders set OrderPrice = 100 where Id = 6</string>
+    <string name="strInputSql">请输入SQL语句</string>
+    <string name="strErrorSql">执行出错，请检查SQL语句</string>
+    <string name="strSuccessSql">执行SQL语句成功</string>
+    <string name="strUnableSql">Sorry，还没处理select语句</string>
 </resources>
