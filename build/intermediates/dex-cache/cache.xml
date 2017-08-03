@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android-base\android-design-library-master\nfc-reader-master\app\libs\guavalib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4dad6eb644b525f4222e3c55d31c16660bacb92e">
+        <dex dex="D:\Android-base\android-design-library-master\nfc-reader-master\app\build\intermediates\pre-dexed\debug\guavalib_5914869e20f97975c217a63708dce63fe92e6965.jar" />
+    </item>
+
+</items>
